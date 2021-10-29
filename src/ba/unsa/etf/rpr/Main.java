@@ -35,7 +35,7 @@ public static void ispisArtikala(Artikl[] artikli){
     public static void main(String[] args) {
 	unosArtikalaMarket();
 
-        
+
         for(;;){
             System.out.print("0 - odustani\n1 - dodaj u korpu\n2 - izbaci iz korpe\n3 - checkout\nUnesite opciju: ");
             Scanner scanner = new Scanner(System.in);
